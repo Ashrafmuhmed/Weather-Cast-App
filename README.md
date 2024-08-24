@@ -11,7 +11,7 @@
 ```
    flutter pub get
 ```
-3. Obtain API key from [Weather API](http://api.weatherapi.com/) and replace it in the NewsServies.dart file.
+3. Obtain API key from [Weather API](https://www.weatherapi.com/) and replace it in the NewsServies.dart file.
 4. Start the app
 ```
    flutter run
